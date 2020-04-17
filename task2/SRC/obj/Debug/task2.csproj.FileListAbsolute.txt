@@ -1,0 +1,14 @@
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\bin\Debug\task2.exe.config
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\bin\Debug\task2.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\bin\Debug\task2.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\obj\Debug\task2.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\task2\obj\Debug\task2.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\bin\Debug\task2.exe.config
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\bin\Debug\task2.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\bin\Debug\task2.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\obj\Debug\task2.csprojAssemblyReference.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\obj\Debug\task2.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task2\SRC\obj\Debug\task2.pdb

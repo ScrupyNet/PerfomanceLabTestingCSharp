@@ -89,8 +89,8 @@ namespace task2
             alfa = Math.Acos((Math.Pow(lineAB, 2) + Math.Pow(lineAC, 2) - Math.Pow(lineBC, 2)) / (2 * lineAB * lineAC));
             beta = Math.Acos((Math.Pow(lineAB, 2) + Math.Pow(lineBC, 2) - Math.Pow(lineAC, 2)) / (2 * lineAB * lineBC));
             gamma = Math.Acos((Math.Pow(lineBC, 2) + Math.Pow(lineAC, 2) - Math.Pow(lineAB, 2)) / (2 * lineAC * lineBC));
-            Console.WriteLine($"{alfa}, {beta}, {gamma}");
-            Console.ReadKey();
+           // Console.WriteLine($"{alfa}, {beta}, {gamma}");
+           // Console.ReadKey();
             double[] angle = { alfa, beta, gamma};
             return angle;
 
@@ -268,21 +268,29 @@ namespace task2
         {
             bool answer = false;
             byte tikAnswer = 0;                             //счетчик совпадений, min2
-            double[] generalAngleMassive = new double[0]; //Главный массив с углами
+            int[] iPosExp= { 5, 5, 5 };                      //массив исключения уже проверенных, изначально заполнен пятерками, как недостижимыми значениями
+            int[] jPosExp = { 5, 5, 5 };
 
             for (int i = 0; i < angleFirst.Length; i++)
             {
+                
                 for (int j = 0; j < angleSecond.Length; j++)
                 {
-                    if (angleFirst[i] - angleSecond[j] == 0)
+                        
+                    if (angleFirst[j] - angleSecond[i] == 0 & iPosExp[i] != i & jPosExp[j] != j)
                     {
+                        //Запрещает обрабатывать одинаковые углы дважды
+                        iPosExp[i] = i;
+                        jPosExp[j] = j;
+                            
                         tikAnswer++;
                         break;
-                    }    
+                    }
                 }
+
             }
 
-            if (tikAnswer >=2) answer = true;
+            if (tikAnswer >= 2) answer = true;
 
             return answer;
         }

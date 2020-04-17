@@ -1,0 +1,14 @@
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\bin\Debug\task3.exe.config
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\bin\Debug\task3.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\bin\Debug\task3.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\obj\Debug\CreateLog.csprojAssemblyReference.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\obj\Debug\CreateLog.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\obj\Debug\task3.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\task3\obj\Debug\task3.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\bin\Debug\task3.exe.config
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\bin\Debug\task3.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\bin\Debug\task3.pdb
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\obj\Debug\CreateLog.csprojAssemblyReference.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\obj\Debug\CreateLog.csproj.CoreCompileInputs.cache
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\obj\Debug\task3.exe
+C:\Users\Uzer\Desktop\Prog\Projects\TestingPerfomanceLab\task3\CreateLog\obj\Debug\task3.pdb
